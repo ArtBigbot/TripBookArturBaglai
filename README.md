@@ -1,4 +1,4 @@
-# TripBookArturBaglai
+# TripBook
 This Android trip application is created for stroing places which user viseted. User can add a new palce or search it by city name or by place type (for example: "restorant","museum") or search it by country name.
 In thia application author used Room database. 
 
